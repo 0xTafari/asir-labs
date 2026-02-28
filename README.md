@@ -13,7 +13,7 @@ El objetivo de este repositorio es documentar los conocimientos adquiridos y ser
 - Permisos y control de acceso
 - Configuración y securización de SSH
 
-### <img width="48" height="48" alt="icons8-windows-48" src="https://github.com/user-attachments/assets/f3e343e0-0a26-4459-b2a5-2f1c25654803" /> Windows Server
+### <img width="16" height="16" alt="icons8-windows-16" src="https://github.com/user-attachments/assets/5fb1a023-7a0f-49d1-ad64-615372fdfdee" /> Windows Server
 - Instalación y configuración de Active Directory
 - Configuración de Domain Controller
 - Gestión de usuarios y políticas
